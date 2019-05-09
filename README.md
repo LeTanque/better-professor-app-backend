@@ -3,7 +3,7 @@ Back End Project
 
 ## Endpoints
 
-- Base URL is `https://betterprofessor.herokuapp.com/api`
+- Base URL is `https://better-profess.herokuapp.com`
 
 ### Register
 POST to `URL/register` with username (email@example.com) and password in the body of the post request
